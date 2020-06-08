@@ -10,11 +10,11 @@ Nota: para eliminar una instancia previa puede utilizar el comando: docker rm -f
 
 3. Ingresar al portal con las credenciales
 # Docker desktop  
-http://localhost:9999/
+http://localhost:9000/
 # Docker toolbox 
 http://192.168.99.100:9000 
-user: admin
-pass:admin
+* user: admin
+* pass:admin
 
 4. Crear una nueva aplicación con el nombre aplicacionNetCore
 
