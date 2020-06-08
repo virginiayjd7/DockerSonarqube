@@ -44,5 +44,5 @@ dotnet build
 11. Cerramos la sesión
 # Docker desktop 
 dotnet sonarscanner end /d:sonar.login=admin /d:sonar.password=admin 
-# Docker toolbox Docker toolbox  
+# Docker toolbox   
 dotnet SonarScanner end /d:sonar.login="fe2c04f332a90a0e90f02c220a66c58f8d1f13ce"
