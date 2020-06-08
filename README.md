@@ -9,8 +9,8 @@ docker run -d --name sonarqube -p 9000:9000 sonarqube
 Nota: para eliminar una instancia previa puede utilizar el comando: docker rm -f sonarqube
 
 3. Ingresar al portal con las credenciales
-http://localhost:9999/
-http://192.168.99.100:9000 Docker toolbox 
+http://localhost:9999/ Docker toolbox 
+http://192.168.99.100:9000 
 user: admin
 pass:admin
 
